@@ -42,7 +42,8 @@ header {
 nav ul {
   display: flex;
   list-style: none;
-  gap: 3rem;;
+  gap: 3rem;
+  cursor: pointer;
 }
 
 button {
@@ -51,6 +52,7 @@ button {
   border-radius: 8rem;
   border: none;
   color: var(--White);
+  cursor: pointer;
 }
 
 .menu-icon {
